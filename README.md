@@ -1,7 +1,5 @@
 
-# Learning Materials README v0.0
-
-***!!!CATIOUS: UNDER CONSTRUCTION!!!***
+# Learning Materials
 
 
 ![DAWN-TEAM](https://avatars0.githubusercontent.com/u/31675657?s=300&v=4)
@@ -12,7 +10,7 @@
 --------
 
 THIS IS A REPO STORED THE LEARNING MATERIALS FOR DAWN-TEAM.   
-FOR DETAILS, LOOK INTO `README.ipynb`.  
+ 
 
 <a rel="license" style="text-decoration:none;hover:none;" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
     <div style="margin-top:0.5em;margin-bottom:1em;">
@@ -24,7 +22,7 @@ FOR DETAILS, LOOK INTO `README.ipynb`.
      </div>
 </a>
 <br />
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+All of the document materials are under <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-CREATED BY [ArvinSiChuan](mailto:arvinsc@foxmail.com?subject=LearningMaterialsOfDawnTeam), 09-DEC-2017, VERSION 0.0.  
+List of contributors is available both in the push records and the files.
 [DAWN-TEAM](https://github.com/Dawn-Team/) © 2017
