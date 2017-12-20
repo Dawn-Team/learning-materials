@@ -9,9 +9,9 @@
 --------
 Diretories:  
 
-|Directory    |Description    |Update Date    |  
-| :------------- | :------------- | :------------- |  
-|README    |A read me material to start using the platforms and learning Machine Learning.    |20,Dec,2017    |  
+|Directory    |Description    |Version    |Update Date    |  
+| :------------- | :------------- | :------------- |:------------- |    
+|/README    |A read me material to start using the platforms and learning Machine Learning.    |0.5    |20,Dec,2017    |  
 
 
 --------
