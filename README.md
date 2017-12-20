@@ -6,6 +6,13 @@
 <p style="margin: 0.5em auto; text-align: center;font-size:large;font-weight: bold;">KNOWLEDGES MAKE PRACTICES<!-- POSSIBLE  -->,</p> 
 <p style="margin: 0 auto; text-align: center;font-size:large;font-weight: bold;">PRACTICES MAKE KNOWLEDGES<!-- FORWARD  -->.</p>
 
+--------
+
+Diretory:
+|Directory    |Description    |Update Date    |
+| :------------- | :------------- | :------------- |
+|README    |A read me material to start using the platforms and learning Machine Learning.    |20,Dec,2017    |
+
 
 --------
 
