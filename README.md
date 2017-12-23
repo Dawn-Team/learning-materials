@@ -11,7 +11,7 @@ Diretories:
 
 |Directory    |Description    |Version    |Update Date    |  
 | :------------- | :------------- | :------------- |:------------- |    
-|/README    |A read me material to start using the platforms and learning Machine Learning.    |0.5    |20,Dec,2017    |  
+|/README    |A read me material to start using the platforms and learning Machine Learning.    |0.7.0    |23,Dec,2017    |  
 
 
 --------
