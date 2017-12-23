@@ -1,0 +1,4 @@
+# 23, Dec, 2017  
+1. Update some expressions.  
+2. Update Authentication Information
+3. Add `tar` and `zip` as most used commands
